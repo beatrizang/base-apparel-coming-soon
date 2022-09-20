@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/solution-base-apparel-coming-soon-7pknTnR7I0
+- Live Site URL: https://beatrizang.github.io/base-apparel-coming-soon/
 
 ## My process
 
